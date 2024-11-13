@@ -66,33 +66,25 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 212223040045
- 
+ Developed by:Sarankumar.V
+ RegisterNumber: 24010668
+
+![Screenshot 2024-11-13 140835](https://github.com/user-attachments/assets/4b1e4e0b-4cb0-4f31-b39a-6909fd6e7b95)
+
+
  
 **Logic symbol & Truthtable**
- module de1(a, b, c, d, e, x, y, z);
-input a, b;
-output c, d, e, x, y, z;
-assign c = a & b; // AND gate
-assign d = a | b; // OR gate
-assign e = a^ b; // XOR gate
-assign x = ~(a & b); // NAND gate
-assign y = ~(a | b); // NOR gate
-assign z = ~(a^ b); // XNOR gate
-endmodule
+
+
+![Screenshot 2024-11-13 135117](https://github.com/user-attachments/assets/d75c0550-599b-48c3-9123-9b84711f7c40)
+![Screenshot 2024-11-12 134845](https://github.com/user-attachments/assets/2cd35ff3-28c1-4fbf-94fb-d14cf4b3bfd7)
 
 
 **RTL realization Output:** 
 
-
-![Screenshot 2024-08-30 173621](https://github.com/user-attachments/assets/cdd73c37-b143-47f3-b5ae-b5d2e4ac7fb1)
-
 **RTL**
-
-![Screenshot 2024-08-29 143752](https://github.com/user-attachments/assets/baf4a796-fea3-4e26-b15d-8c61f1828012)
-
+![Screenshot 2024-11-12 135339](https://github.com/user-attachments/assets/df011fca-48bb-43a8-b3e1-de28bfe6853e)
 
 **Result:**
-The above program has executed sucessfully.
-
+Thus the truth table of logic gates in Quartus|| using verilog programming are studied,verified and executed successfully.
 
